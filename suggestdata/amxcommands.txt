@@ -1,0 +1,9 @@
+[{"id":"BAN","text":"amx_banip username time reason"},
+{"id":"GAG","text":"amx_gag username time"},
+{"id":"BLIND","text":"amx_blind username"},
+{"id":"LAST","text":"amx_lastip"},
+{"id":"CHANGE","text":"Changelevel map"},
+{"id":"cvar","text":"amx_cvar mp_,sv_ value"},
+{"id":"LAST","text":"amx_lastip"},
+{"id":"LAST","text":"amx_lastip"},
+{"id":"LAST","text":"amx_lastip"},]
