@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-     //Connection
+     //Connection to mysql server
            $connect = mysql_connect('localhost', 'root', '') or die(mysql_errno());
            //Select database
                     mysql_select_db('adminz') or die(mysql_errno());
